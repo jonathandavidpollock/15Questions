@@ -1,0 +1,12 @@
+.tabs-panel{
+    background-color:darkred;
+    color: white;
+    border-radius: 0 0 10px 10px;
+}
+
+.button {
+    background-color: #41873f;
+    width : 80%;
+    align : center;
+
+}
